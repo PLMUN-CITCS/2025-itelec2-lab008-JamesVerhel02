@@ -1,4 +1,4 @@
 temperature = 35
 
 if temperature > 30:
-    print("it's a hot day!")
+    print("It's a hot day!")  # Indented 4 spaces
